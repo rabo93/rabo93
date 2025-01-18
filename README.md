@@ -26,15 +26,14 @@
 	<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
 </div>
 
+<!--
 <div align="center">
 	<h4>📫 SNS & Email</h4>
 	<a href="https://rabo93.tistory.com/" title="바로가기(새창)" target="_blank">
 		<img src="https://img.shields.io/badge/tistory-ed461d?style=flat&logo=Tistory&logoColor=white" />
-	</a><a href="bborara93@gmail.com" title="바로가기(새창)" target="_blank">
-    <img src="https://img.shields.io/badge/bborara93@gmail.com-aa45fc?style=flat&logo=mailboxdotorg&logoColor=white" />
 	</a>
 </div>
-
+-->
 <div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frabo93&count_bg=%23C5EDA7&title_bg=%236AB78E&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false"/></a>
 </div>
