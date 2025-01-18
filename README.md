@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=gradient&text=RABO's%20Repositoy&textBg=false&fontSize=50&section=header&reversal=false&fontAlign=50&animation=fadeIn">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=gradient&text=RABO's%20Repositoy&textBg=false&fontSize=70&section=header&reversal=false&fontAlign=50&animation=fadeIn">
 
 
 <!--
