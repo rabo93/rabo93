@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=gradient&text=RABO's%20Repositoy&textBg=false&fontSize=70&section=header&reversal=false&fontAlign=50&animation=fadeIn&fontColor=dabae9">
 </div>
 <div align="center">
-  <h6>역지사지 마인드로 사용자 중심 개발하기✨</h6>
+  <h6>데이터 기반 사고로 더 나은 서비스 구축하기✨</h6>
 </div>
 <div align="center">	
   	<h4>🌱 Skills</h4>
