@@ -22,7 +22,7 @@
 	<h4>⚒️ Tools</h4>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
 	<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white">
-  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" />
+ 	 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" />
 	<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
 </div>
 
